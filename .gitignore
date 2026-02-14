@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Data folders
+datafiles/
+figures/
+
+# Large dataset files
+Dataset.npy
+Dataset_sample.csv
+
+# Generated files
+*.pkl
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
